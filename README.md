@@ -1,1 +1,1 @@
-Deltacast Redux
+React Starter Kit

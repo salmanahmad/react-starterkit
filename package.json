@@ -1,6 +1,6 @@
 {
-  "name": "deltacast-redux",
-  "description": "Deltacast",
+  "name": "react-starter-kit",
+  "description": "React Starter Kit",
   "version": "0.0.0",
   "license": "UNLICENSED",
   "private": true,
